@@ -16,6 +16,6 @@ export const primaryColorConst = "blue";
 export const themeConst = "dark";
 
 // Gasless relayer configuration options
-export const relayerUrlConst = ""; // OpenZeppelin relayer URL
+export const relayerUrlConst = "https://api.defender.openzeppelin.com/autotasks/d1959632-49b5-4719-974a-4cfb95eb5b63/runs/webhook/8434062f-1b62-4764-a328-fd88a3b93064/6a5aHTzxiT2uhwrgGxhGPL"; // OpenZeppelin relayer URL
 export const biconomyApiKeyConst = ""; // Biconomy API key
 export const biconomyApiIdConst = ""; // Biconomy API ID
