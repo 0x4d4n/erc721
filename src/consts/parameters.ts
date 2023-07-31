@@ -7,7 +7,7 @@ export const contractConst = "0xbF4d3663B78378e2cbA412e0A7A025314Ee189AE";
 // The name of the chain your contract is deployed to.
 // Provide a string for standard chains, or import one from @thirdweb-dev/chains package.
 // Learn more: https://portal.thirdweb.com/react/react.thirdwebprovider#activechain-recommended
-export const chainConst = "Optimism Goerli Testnet";
+export const chainConst = "optimism-goerli";
 
 // Configure the primary color for buttons and other UI elements
 export const primaryColorConst = "blue";
